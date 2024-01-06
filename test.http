@@ -1,0 +1,13 @@
+GET http://localhost:8080/books
+###
+
+POST http://localhost:8080/books
+content-type: application/json
+
+{
+  "title": "thisisagoodbook 2",
+  "author": "author 2",
+  "isbn": "isbn2"
+}
+
+###

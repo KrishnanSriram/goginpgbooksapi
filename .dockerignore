@@ -1,0 +1,9 @@
+*.log
+*.csv
+.git
+.gitignore
+Dockerfile
+README.md
+LICENSE
+.idea/
+.vscode/
